@@ -1,4 +1,4 @@
-##WEEK 1: ASSIGNMENT
+## WEEK 1: ASSIGNMENT
 
 Your first assignment is to create a basic web page with HTML and CSS.  Your page must
 include the picture of any actor/actress, a heading with their name, and a link to their wikipedia
@@ -10,7 +10,7 @@ Use CSS to manipulate background color, font-color, height and width of image
 and text. Add a border to the table with headers and manipulate size and color as well.  Finally, use
 html heading tags to manipulate text size.
 
-##WEEK 1: ASSIGNMENT SETUP
+## WEEK 1: ASSIGNMENT SETUP
 
   1. In your terminal command, type `npm install watch-http-server -g`
 
@@ -20,7 +20,7 @@ html heading tags to manipulate text size.
   and a basic html shell for your first html/css project.
 
   3.  Remember your Terminal Commands!  
-      
+
       Make a directory for your cloned code.
 
         `mkdir week1`
