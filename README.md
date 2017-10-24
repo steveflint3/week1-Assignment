@@ -1,5 +1,6 @@
 ##WEEK 1: ASSIGNMENT
 
+<<<<<<< HEAD
 Your first assignment is to create a basic web page with HTML and CSS.  Your page must
 include the picture of any actor/actress, a heading with their name, and a link to their wikipedia
 page.  Underneath should be a table that lists some their movies, under table headers labeled title
@@ -14,6 +15,10 @@ html heading tags to manipulate text size.
 
   1. In your terminal command, type `npm install watch-http-server -g`
      ..*This will install a simple, zero-configuration command-line http server.
+=======
+  1. -In your terminal command, type `npm install watch-http-server -g`
+     -This will install a simple, zero-configuration command-line http server.
+>>>>>>> b3386fa4400e87b28d680de7f1f5511d031aa13a
   2. Next you must clone a git repository that contains week one assignment instructions
   and a basic html shell for your first html/css project.
   3.  Remember your Terminal Commands!  
