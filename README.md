@@ -44,7 +44,7 @@ html heading tags to manipulate text size.
 
       `<div>Hello World</div>`
 
-    Press command s on your keyboard to save the changes.
+    Press `command s` on your keyboard to save the changes.
 
     Now, go to your terminal command, make sure you are in your cloned git directory "week1".
 
